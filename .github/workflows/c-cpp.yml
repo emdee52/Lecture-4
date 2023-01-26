@@ -16,4 +16,4 @@ jobs:
     - name: make
       run: make test
     - name: run executable
-      run: ./test
+      run: ./test -s
